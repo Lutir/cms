@@ -1,0 +1,52 @@
+.dep a{
+	font-size: 14px;
+}
+.dep{
+	
+}
+.space-small{
+	height: 20px;
+}
+.space-medium{
+	height: 40px;
+}
+.space-large{
+	height:80px;
+}
+.space-vsmall{
+	height: 10px;
+}
+.robots-nofollow{
+	padding-left: 30px;
+	padding-right: 30px;
+}
+hr{
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.depth1{
+	padding: 0px;
+}
+.cms-menuhead{
+	padding-bottom: 10px;
+	padding-top: 25%;
+	font-size: 18px;
+}
+.sidemenu{
+	background-color: rgba(0,0,0,0.2);
+}
+.child li a{
+	color: #000;
+}
+.dep a{
+	font-size: 14px;
+}
+#k-footer{
+	padding: 0px;
+}
+.grey-col{
+	background:rgba(0,0,0,0.002);
+}
+.lgrey-col{
+	background:rgba(0,0,0,0.02);
+}
